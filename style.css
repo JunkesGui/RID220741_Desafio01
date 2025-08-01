@@ -32,4 +32,18 @@
 #imageSection{
     display: grid;
     grid-auto-flow: column;
+    padding-left: 5vw;
+}
+
+#imageText{
+    font-size: 1.7vw;
+    font-weight: 300;
+    margin-top: 25vh;
+    
+}
+
+#imageTitle{
+    font-size: 3vw;
+    font-weight: 500;
+    margin-bottom: 25px;
 }
