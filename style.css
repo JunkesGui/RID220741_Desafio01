@@ -5,7 +5,7 @@
 
 #header{
     background-color: #303030;
-    padding: 28vh 0vw 22.5vh 3vw;
+    padding: 32vh 0vw 23vh 5vw;
     color: #FFFFFF;
 }
 
@@ -23,7 +23,13 @@
     background-color: #F9F9F9;
     display: grid;
     grid-auto-flow: column;
+    font-size: 1.4vw;
+    font-weight: 400;
+    padding: 12vh 0vw 10vh 10vw;
+    margin-bottom: 75px;
 }
+
+
 
 #imageSection{
     display: grid;
