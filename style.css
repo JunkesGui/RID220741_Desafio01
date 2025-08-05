@@ -5,45 +5,91 @@
 
 #header{
     background-color: #303030;
-    padding: 32vh 0vw 23vh 5vw;
+    padding: 207px 0px 147px 72px;
     color: #FFFFFF;
 }
 
 #headerTitle{
-    font-size: 4vw;
+    font-size: 60px;
     font-weight: 600;
     margin-bottom: 25px;
 }
 
 #headerText{
-    font-size: 1.5vw;
+    font-size: 20px;
+    font-weight: 500;
 }
 
 #infoMenu{
     background-color: #F9F9F9;
     display: grid;
     grid-auto-flow: column;
-    font-size: 1.4vw;
-    font-weight: 400;
-    padding: 12vh 0vw 10vh 10vw;
+    padding: 78px 0px 78px 144px;
     margin-bottom: 75px;
+}
+
+.infoMenuTitle{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.infoMenuText{
+    font-size: 20px;
+    font-weight: 400;
 }
 
 #imageSection{
     display: grid;
     grid-auto-flow: column;
-    padding-left: 5vw;
+    padding-left: 72px;
+    margin-bottom: 75px;
 }
 
 #imageText{
-    font-size: 1.7vw;
+    font-size: 24px;
     font-weight: 300;
-    margin-top: 25vh;
+    margin: auto;
     
 }
 
 #imageTitle{
-    font-size: 3vw;
+    font-size: 40px;
     font-weight: 500;
     margin-bottom: 25px;
+}
+
+#form{
+    background-color: #303030;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 81px 0px 81px 0px;
+}
+
+input{
+    width: 508px;
+    height: 72px;
+    background-color: #FFFFFF;
+    margin: 45px 15px 0px 0px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+button{
+    color: #EAECE5;
+    background-color: #C07212;
+    width: 286px;
+    height: 74px;
+    border: 0px;
+    border-radius: 5px;
+    margin: 75px 0px 50px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #c4781b;
+    transform: translateY(-5px);
+    transition-duration: 0.5s;
+    box-shadow: 0px 15px 20px #704e24ad;
 }
