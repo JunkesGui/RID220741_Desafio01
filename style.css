@@ -45,6 +45,10 @@
     margin-bottom: 75px;
 }
 
+#interiorImage{
+    margin: auto;
+}
+
 #imageText{
     font-size: 24px;
     font-weight: 300;
