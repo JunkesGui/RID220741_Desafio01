@@ -1,0 +1,24 @@
+{
+  "name": "rid220741_desafio01",
+  "version": "1.0.0",
+  "description": "Desafio da escola DNC do curso Introdução ao Desenvolvimento Web",
+  "homepage": "https://github.com/JunkesGui/RID220741_Desafio01#readme",
+  "bugs": {
+    "url": "https://github.com/JunkesGui/RID220741_Desafio01/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JunkesGui/RID220741_Desafio01.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}
