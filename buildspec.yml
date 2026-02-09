@@ -16,10 +16,10 @@ phases:
     commands:
       - echo Build Completed. Copying files to S3
       - aws s3 cp dist s3://dnc-aula-frontend/ --recursive
-  artifacts:
-    files:
-      - "**/*"
-    base-directory: dist
-  cache:
-    paths:
-      - "node_modules/**/*"
+artifacts:
+  files:
+    - "**/*"
+  base-directory: dist
+cache:
+  paths:
+    - "node_modules/**/*"
