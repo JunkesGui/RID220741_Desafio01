@@ -7,4 +7,4 @@ Desafio da escola DNC do curso Introdução ao Desenvolvimento Web
 ~~Link da página: https://rid220741desafio01.netlify.app~~
 
 Projeto reaproveitado para teste de deploy na AWS:
-http://dnc-aula-frontend.s3-website-sa-east-1.amazonaws.com/
+~~http://dnc-aula-frontend.s3-website-sa-east-1.amazonaws.com/~~
